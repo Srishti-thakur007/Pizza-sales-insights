@@ -109,7 +109,7 @@ It helps in understanding sales behavior and improving business strategies throu
 
 ## 👩‍💻 Author
 
-**Gracy Thakur**
+**Srishti Thakur**
 
 ---
 
