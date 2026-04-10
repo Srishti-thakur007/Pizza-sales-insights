@@ -102,7 +102,6 @@ To analyze pizza sales data and transform it into actionable insights that help 
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard]
 (https://github.com/Srishti-thakur007/Pizza-sales-insights/blob/main/pizza_chart1.png)
 
 (https://github.com/Srishti-thakur007/Pizza-sales-insights/blob/main/pizza_chart2.png)
