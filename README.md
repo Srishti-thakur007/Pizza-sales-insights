@@ -100,6 +100,11 @@ To analyze pizza sales data and transform it into actionable insights that help 
 
 ---
 
+## 📊 Dashboard Preview
+
+![Pizza Sales Dashboard]
+
+
 ## 🚀 Conclusion
 
 This project demonstrates how raw data can be transformed into meaningful insights using SQL and Power BI.
